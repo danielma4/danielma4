@@ -1,5 +1,5 @@
 ### Hi there! 👋
-### I'm Daniel, currently interested in distributed systems and machine learning.
+### I'm Daniel, currently interested computer vision, reinforcement learning, and geometry.
 
 <!--
 **danielma4/danielma4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
